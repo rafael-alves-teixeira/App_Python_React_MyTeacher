@@ -5,7 +5,7 @@
 <p align="center">Repositório Front-end do projeto Fullstack React + Python.</p>
 
 <h1 align="center">
-  <img alt="Imagem do projeto" title="MyTeacher" src="./public/images/myteacher.png" />
+  <img alt="Imagem do projeto" title="MyTeacher" src="./myteacher readme.jpg" />
 </h1>
 
 
