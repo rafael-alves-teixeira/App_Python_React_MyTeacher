@@ -1,10 +1,13 @@
-<h1 align="center">My Teacher</h1>
+<h1 align="center">
+  <img alt="Imagem do projeto" title="MyTeacher" src="./public/images/myteacher.png" />
+
 
 <p align="center">Repositório Front-end do projeto Fullstack React + Python.</p>
 
 <h1 align="center">
-  <img alt="Imagem do projeto" title="MyTeacher" src="./public/images/paginaMyTeacher.jpg" />
+  <img alt="Imagem do projeto" title="MyTeacher" src="./myteacher readme.jpg" />
 </h1>
+
 
 <p align="center">🚧 Site em construção 🚧<p>
 
